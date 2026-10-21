@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/diamond-nv-magnetometer-explainer/
 
+Repository: https://github.com/mizcausevic-dev/diamond-nv-magnetometer-explainer
+
 ## What this is
 
 An interactive anatomy plate for Diamond NV Magnetometer. Play, scrub, or jump the five stages. The same frame always draws the same picture.
